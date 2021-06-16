@@ -1,0 +1,6 @@
+framework module Pods_FoodManagerVMC_FoodManagerVMCUITests {
+  umbrella header "Pods-FoodManagerVMC-FoodManagerVMCUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

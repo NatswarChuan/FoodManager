@@ -1,0 +1,6 @@
+framework module Pods_FoodManagerVMC {
+  umbrella header "Pods-FoodManagerVMC-umbrella.h"
+
+  export *
+  module * { export * }
+}
